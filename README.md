@@ -42,3 +42,9 @@ Stay updated with the latest Flutter and Dart developments to leverage new featu
 💡 Step 10: Explore Advanced Features
 Explore advanced Flutter features like platform channels for integrating native code, Firebase for backend services, and more to enhance your app further.
 By following these steps, you can create an attractive and functional front-end for your Finzie app using Dart and Flutter! 🌟
+
+
+Smaple Image in front-end
+
+![image](https://github.com/krishnakaushik195/Finzie-App-Front-end/assets/96732448/7ab40d63-a3d5-44c3-aa19-285269562005)
+
